@@ -49,6 +49,3 @@ Inicie ou reinicie o seu servidor Minecraft para carregar o novo plugin.
 Uso
 Uma vez que o servidor estiver em execução com o plugin, você pode utilizar os seguintes comandos no jogo:
 
-/sethome: Define sua localização atual como sua casa.
-/deletehome: Remove sua localização definida como casa.
-/home: Teleporta você para a localização definida como sua casa
