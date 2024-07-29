@@ -28,13 +28,14 @@ Siga os passos abaixo para instalar e configurar o Home Plugin em seu servidor M
    
 Navegue até o diretório do projeto clonado:
 
-  ```sh
+```
 cd SetHome
+````
 
 Em seguida, construa o projeto utilizando o Gradle:
-```sh
+```
 gradle build
-
+```
 Após a construção, você encontrará o arquivo .jar na pasta build/libs.
 
 Adicionar o Plugin ao Servidor
