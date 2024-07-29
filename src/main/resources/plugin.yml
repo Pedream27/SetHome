@@ -1,0 +1,12 @@
+name: SetHome
+version: '1.0-SNAPSHOT'
+main: br.dev.phsaraiva.setHome.SetHome
+api-version: '1.21'
+author: Pedro Saraiva
+commands:
+  sethome:
+    description: Adicionar Casa
+  home:
+    description: Teletransporte-se para sua casaWarp to your home
+  deletehome:
+    description: Deleta sua Casa
